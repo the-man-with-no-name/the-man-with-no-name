@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @the-man-with-no-name
-- 👀 I’m interested in a position as a technical writer, software developer, programmer, or anything else!
+- 👀 I am currently looking for a position as a Technical Writer.
 
 <!---
 the-man-with-no-name/the-man-with-no-name is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
